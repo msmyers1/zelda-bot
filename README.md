@@ -1,4 +1,4 @@
-# hyrule-bot
+# zelda-bot
 
 This program launches a Discord bot. Users can talk to the bot on Discord,
 sending it commands to return information about creatures, items, etc.
